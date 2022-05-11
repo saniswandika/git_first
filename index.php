@@ -74,7 +74,7 @@ $latestvideoId = $result['items'][0]['id']['videoId'];
         <div class="text-center">
           <img src="img/profile1.png" class="rounded-circle img-thumbnail">
           <h1 class="display-4">Sandhika Galih</h1>
-          <h3 class="lead">Lecturer | Programmer | Youtuber</h3>
+          <h3 class="lead">Lecturer | Programmer | Youtuber  | gamers</h3>
         </div>
       </div>
     </div>
